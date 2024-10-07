@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PYS.Web", "PYS.Web\PYS.Web.csproj", "{80E87500-F783-4B53-AF58-BE7635587448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80E87500-F783-4B53-AF58-BE7635587448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E87500-F783-4B53-AF58-BE7635587448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E87500-F783-4B53-AF58-BE7635587448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E87500-F783-4B53-AF58-BE7635587448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D350844C-4510-44F7-94DA-98EBE645127B}
+	EndGlobalSection
+EndGlobal
