@@ -13,7 +13,7 @@ namespace PYS.Web
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
+        public Startup(IConfiguration configuration) //test
         {
             Configuration = configuration;
         }
