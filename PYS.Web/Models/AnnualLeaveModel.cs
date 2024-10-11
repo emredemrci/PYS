@@ -2,9 +2,9 @@
 
 namespace PYS.Web.Models
 {
-    public class PublicHolidayModel
+    public class AnnualLeaveModel 
     {
-        public string Name { get; set; }
+        public string PersonelName { get; set; }
         public string Date { get; set; }
     }
 

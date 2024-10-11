@@ -2,7 +2,7 @@
 
 namespace PYS.Web.Controllers
 {
-    public class PersonnelSalaryController : Controller
+    public class AnnualLeave : Controller
     {
         public IActionResult Index()
         {
@@ -13,11 +13,5 @@ namespace PYS.Web.Controllers
         {
             return View();
         }
-
-        public IActionResult Update(int id)
-        {
-            return View();
-        }
-
     }
 }
