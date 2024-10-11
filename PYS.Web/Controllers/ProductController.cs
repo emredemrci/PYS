@@ -13,5 +13,9 @@ namespace PYS.Web.Controllers
         {
             return View();
         }
+        public IActionResult Update(int id)
+        {
+            return View();
+        }
     }
 }
